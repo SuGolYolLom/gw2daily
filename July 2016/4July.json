@@ -1,0 +1,145 @@
+{
+	"pve": [{
+		"id": 1970,
+		"level": {
+			"min": 1,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1839,
+		"level": {
+			"min": 11,
+			"max": 79
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1839,
+		"level": {
+			"min": 80,
+			"max": 80
+		},
+		"required_access": ["GuildWars2"]
+	},
+	{
+		"id": 2983,
+		"level": {
+			"min": 80,
+			"max": 80
+		},
+		"required_access": ["HeartOfThorns"]
+	},
+	{
+		"id": 1951,
+		"level": {
+			"min": 11,
+			"max": 74
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1961,
+		"level": {
+			"min": 75,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1895,
+		"level": {
+			"min": 31,
+			"max": 56
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1908,
+		"level": {
+			"min": 57,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	}],
+	"pvp": [{
+		"id": 1857,
+		"level": {
+			"min": 1,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1856,
+		"level": {
+			"min": 11,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 2112,
+		"level": {
+			"min": 11,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 2116,
+		"level": {
+			"min": 31,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	}],
+	"wvw": [{
+		"id": 437,
+		"level": {
+			"min": 1,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1847,
+		"level": {
+			"min": 11,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1845,
+		"level": {
+			"min": 11,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	},
+	{
+		"id": 1850,
+		"level": {
+			"min": 31,
+			"max": 80
+		},
+		"required_access": ["GuildWars2",
+		"HeartOfThorns"]
+	}],
+	"special": []
+}
