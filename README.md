@@ -1,4 +1,4 @@
-## gw2daily
+# gw2daily
 
  ![alt tag](https://render.guildwars2.com/file/483E3939D1A7010BDEA2970FB27703CAAD5FBB0F/42684.png) **Guild Wars 2 repository for daily achievements**
 
@@ -14,3 +14,5 @@ Category 102: https://api.guildwars2.com/v2/achievements/categories/102 // Lunar
 
 ## Waypoints
 http://gw2timer.com/?page=Map&section=Daily
+
+###### Contact in-game: InAGiiZ.5241 (EU - Desolation)
