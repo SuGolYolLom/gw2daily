@@ -1,6 +1,6 @@
 ## gw2daily
 
-Guild Wars 2 repository for daily achievements
+ ![alt tag](https://render.guildwars2.com/file/483E3939D1A7010BDEA2970FB27703CAAD5FBB0F/42684.png) **Guild Wars 2 repository for daily achievements**
 
 Today achievements: https://api.guildwars2.com/v2/achievements/daily  
 Tomorrow achievements: https://api.guildwars2.com/v2/achievements/daily/tomorrow  
