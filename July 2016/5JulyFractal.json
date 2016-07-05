@@ -1,10 +1,10 @@
-{  
-   "id":88,
-   "name":"Daily Fractals",
-   "description":"",
-   "order":10,
-   "icon":"https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png",
-   "achievements":[  
+{
+   "id": 88,
+   "name": "Daily Fractals",
+   "description": "",
+   "order": 10,
+   "icon": "https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png",
+   "achievements": [
       2492,
       2166,
       2977,

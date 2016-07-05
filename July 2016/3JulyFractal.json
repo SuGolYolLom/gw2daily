@@ -1,1 +1,23 @@
-{"id":88,"name":"Daily Fractals","description":"","order":10,"icon":"https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png","achievements":[2560,2363,2900,2898,2964,2956,2976,2955,2944,2903,2954,2971,2986,2923]}
+{
+   "id": 88,
+   "name": "Daily Fractals",
+   "description": "",
+   "order": 10,
+   "icon": "https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png",
+   "achievements": [
+      2560,
+      2363,
+      2900,
+      2898,
+      2964,
+      2956,
+      2976,
+      2955,
+      2944,
+      2903,
+      2954,
+      2971,
+      2986,
+      2923
+   ]
+}
