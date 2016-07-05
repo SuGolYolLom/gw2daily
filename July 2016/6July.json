@@ -1,136 +1,174 @@
-{
-	"pve": [{
-		"id": 1975,
-		"level": {
-			"min": 1,
-			"max": 79
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1980,
-		"level": {
-			"min": 80,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1939,
-		"level": {
-			"min": 11,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1953,
-		"level": {
-			"min": 11,
-			"max": 79
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1953,
-		"level": {
-			"min": 80,
-			"max": 80
-		},
-		"required_access": ["GuildWars2"]
-	},
-	{
-		"id": 2910,
-		"level": {
-			"min": 80,
-			"max": 80
-		},
-		"required_access": ["HeartOfThorns"]
-	},
-	{
-		"id": 2893,
-		"level": {
-			"min": 31,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	}],
-	"pvp": [{
-		"id": 1861,
-		"level": {
-			"min": 1,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1857,
-		"level": {
-			"min": 11,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 2623,
-		"level": {
-			"min": 11,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 2096,
-		"level": {
-			"min": 31,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	}],
-	"wvw": [{
-		"id": 946,
-		"level": {
-			"min": 1,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1852,
-		"level": {
-			"min": 11,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1851,
-		"level": {
-			"min": 11,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	},
-	{
-		"id": 1844,
-		"level": {
-			"min": 31,
-			"max": 80
-		},
-		"required_access": ["GuildWars2",
-		"HeartOfThorns"]
-	}],
-	"special": []
+{  
+   "pve":[  
+      {  
+         "id":1975,
+         "level":{  
+            "min":1,
+            "max":79
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1980,
+         "level":{  
+            "min":80,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1939,
+         "level":{  
+            "min":11,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1953,
+         "level":{  
+            "min":11,
+            "max":79
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1953,
+         "level":{  
+            "min":80,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2"
+         ]
+      },
+      {  
+         "id":2910,
+         "level":{  
+            "min":80,
+            "max":80
+         },
+         "required_access":[  
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":2893,
+         "level":{  
+            "min":31,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      }
+   ],
+   "pvp":[  
+      {  
+         "id":1861,
+         "level":{  
+            "min":1,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1857,
+         "level":{  
+            "min":11,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":2623,
+         "level":{  
+            "min":11,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":2096,
+         "level":{  
+            "min":31,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      }
+   ],
+   "wvw":[  
+      {  
+         "id":946,
+         "level":{  
+            "min":1,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1852,
+         "level":{  
+            "min":11,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1851,
+         "level":{  
+            "min":11,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      },
+      {  
+         "id":1844,
+         "level":{  
+            "min":31,
+            "max":80
+         },
+         "required_access":[  
+            "GuildWars2",
+            "HeartOfThorns"
+         ]
+      }
+   ],
+   "special":[  
+
+   ]
 }
