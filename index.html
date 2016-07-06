@@ -3,8 +3,8 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta http-equiv="refresh" content="0; url=http://daily.thatshaman.com" />
-    <meta http-equiv="refresh" content="1; url=http://gw2timer.com/?page=Map&section=Daily" />
+    <!--<meta http-equiv="refresh" content="0; url=http://daily.thatshaman.com" />
+    <meta http-equiv="refresh" content="1; url=http://gw2timer.com/?page=Map&section=Daily" />-->
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
@@ -17,7 +17,14 @@
 
   <body>
     <div id="container">
-      
+      <a id="test" href="#"> CLick </a>
+<script type="text/javascript">
+
+  document.getElementById("test").onload = function(){
+   window.open("http://daily.thatshaman.com",'_blank');
+   window.open("http://gw2timer.com/?page=Map&section=Daily",'_blank');
+}
+</script>
     </div>
   </body>
 </html>
