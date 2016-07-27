@@ -2,9 +2,9 @@
 
   **Guild Wars 2 repository for daily achievements**
 
-Today ![pve](https://render.guildwars2.com/file/483E3939D1A7010BDEA2970FB27703CAAD5FBB0F/42684.png)  ![pvp](https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png)  ![wvw](https://render.guildwars2.com/file/2BBA251A24A2C1A0A305D561580449AF5B55F54F/338457.png) achievements: https://api.guildwars2.com/v2/achievements/daily  
-![fractal](https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png) Today Fractal Daily Achievements:  https://api.guildwars2.com/v2/achievements/categories/88  
-Tomorrow achievements: https://api.guildwars2.com/v2/achievements/daily/tomorrow  
+Today ![pve](https://render.guildwars2.com/file/483E3939D1A7010BDEA2970FB27703CAAD5FBB0F/42684.png)  ![pvp](https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png)  ![wvw](https://render.guildwars2.com/file/2BBA251A24A2C1A0A305D561580449AF5B55F54F/338457.png) Daily Achievements: https://api.guildwars2.com/v2/achievements/daily  
+Today ![fractal](https://render.guildwars2.com/file/4A5834E40CDC6A0C44085B1F697565002D71CD47/1228226.png) Daily Achievements:  https://api.guildwars2.com/v2/achievements/categories/88  
+Tomorrow ![pve](https://render.guildwars2.com/file/483E3939D1A7010BDEA2970FB27703CAAD5FBB0F/42684.png)  ![pvp](https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png)  ![wvw](https://render.guildwars2.com/file/2BBA251A24A2C1A0A305D561580449AF5B55F54F/338457.png) Achievements: https://api.guildwars2.com/v2/achievements/daily/tomorrow  
 Get achievement info: https://api.guildwars2.com/v2/achievements?ids=x,y,z (https://wiki.guildwars2.com/wiki/API:2/achievements)  
   
 Daily group: https://api.guildwars2.com/v2/achievements/groups/18DB115A-8637-4290-A636-821362A3C4A8  
